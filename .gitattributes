@@ -1,0 +1,5 @@
+# Keep generated asset bytes identical to the verified Flutter release.
+* -text -diff
+README.md text eol=lf diff
+CNAME text eol=lf diff
+.gitattributes text eol=lf diff
