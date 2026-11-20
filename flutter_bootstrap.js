@@ -43,7 +43,7 @@ _flutter.buildConfig = {"engineRevision":"89c39edfdfae2949f6806e4a315c0c08522238
 
 // The release helper fills this ID and gives each app entrypoint a fresh URL.
 // Do not register a worker that can reload an editor without user consent.
-const arkiBoardBuild = '20261120T130814597826Z-2269cc8d909b';
+const arkiBoardBuild = '20261120T163146822241Z-692f1d113c7c';
 if (!arkiBoardBuild.startsWith('__')) {
   for (const build of _flutter.buildConfig.builds) {
     if (build.mainJsPath) {
